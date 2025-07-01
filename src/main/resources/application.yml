@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ART3RY-G1N/online-learning-platform-configs.git
+          uri: https://github.com/Sleepless-Artery/online-learning-platform-configs.git
           username: ${GIT_USERNAME}
           password: ${GIT_PASSWORD}
           search-paths: '{application}'
