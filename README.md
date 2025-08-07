@@ -10,6 +10,10 @@ git clone https://github.com/Sleepless-Artery/online-learning-platform-config-se
 
 Для успешной работы приложения нужно сгенерировать персональный токен доступа (personal access token). Это можно сделать в разделе settings -> developer settings -> personal access tokens
 
+Перейдите в командной строке в каталог проекта и выполните сборку:
+```bash
+maven clean install
+```
 Перейдите по следующим ссылкам и выполните описанные шаги:
 - [Репозиторий конфигураций микросервисов](https://github.com/Sleepless-Artery/online-learning-platform-configs)
 - [Репозиторий инфраструктуры приложения](https://github.com/Sleepless-Artery/online-learning-platform-infra)
